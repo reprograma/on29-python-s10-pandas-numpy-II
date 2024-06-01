@@ -1,10 +1,18 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Gráficos
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+Utilizar a tabela de dados do clima de seu estado, crie 3 gráficos com os dados fornecidos pela tabela, os gráficos podem ser de qualquer dado, qualquer tipo e de qualquer amostragem
+
+Bonus:
+
+usando a Tabela da mega-sena da atividade, monte um gráfico com o histograma dos números sorteados
+
+#### Envio do Exercício
+
+Certifique-se de testar todos os scripts para garantir que eles funcionam corretamente antes de enviá-los.
+
+Boa sorte!
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
